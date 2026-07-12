@@ -27,6 +27,6 @@ This dashboard enables procurement teams to:
 •	Support data-driven decision-making for strategic sourcing  
 
 ## Preview
-![Procurement KPI Dashboard](Procurement KPI Analysis.png)
+![Procurement KPI Dashboard](Procurement_KPI_Analysis_Dashboard.png)
 
 
